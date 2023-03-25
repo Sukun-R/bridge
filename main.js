@@ -1,4 +1,4 @@
-const url = 'ws://localhost:3000/'
+const url = 'ws://133.32.218.21:3000/'
 const protocol = 'game_server'
 const socket = new WebSocket(url, protocol)
 
